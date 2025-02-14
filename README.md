@@ -1,4 +1,4 @@
-# Frontend Mentor - stats preview
+# Frontend Mentor - Huddle-landing-page
 ## Welcome! 👋
 
 ### Links
