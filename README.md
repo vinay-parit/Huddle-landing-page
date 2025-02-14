@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Vercel Link](https://stats-preview-orpin.vercel.app/)
+- Solution URL: [Github](https://github.com/vinay-parit/Huddle-landing-page)
+- Live Site URL: [Vercel Link](https://huddle-landing-page-three-ruby.vercel.app/)
 
 ### ScreenShot
 
